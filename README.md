@@ -1,3 +1,11 @@
+```
+Your site	https://sanity-next-js-e-commerce-seven.vercel.app
+Sanity Studio	https://sanity-next-js-e-commerce-seven.vercel.app/studio
+Vercel project	https://vercel.com/vbubblery/sanity-next-js-e-commerce
+Vercel deployment	https://vercel.com/vbubblery/sanity-next-js-e-commerce/5kLrsRVvabKHyNCq2K7C2gYSqc9C
+```
+---
+
 # Sanity.io and Next.js Ecommerce Starter
 
 This is an e-commerce *starter* that features a studio with a simple Next.js frontend.
